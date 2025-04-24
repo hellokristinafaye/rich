@@ -1,6 +1,12 @@
 Overview:
 
+- Static website to practice HTML and CSS.
+
 Technologies Used:
+
+- HTML
+- CSS
+- Google Fonts via CDN
 
 Features:
 
