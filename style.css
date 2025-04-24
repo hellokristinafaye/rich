@@ -61,4 +61,8 @@ aside {
     background:rgb(53, 235, 68);
     flex-basis: 25%;
     margin: 15px 0 15px 0; 
+    padding: 20px
+}
+aside h2 {
+    text-align: center;
 }
