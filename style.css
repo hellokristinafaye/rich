@@ -72,5 +72,6 @@ footer p {
 }
 footer {
     background: white;
-    
+    padding: 15px 10px;
+    margin-bottom: 60px;
 }
