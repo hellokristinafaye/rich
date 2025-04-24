@@ -43,3 +43,10 @@ main {
     background: white;
     padding: 20px;
 }
+.section h2, h3 {
+    font-family: Fascinate;
+    font-style: italic;
+}
+.article-heading-text {
+    text-align: center;
+}
