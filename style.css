@@ -23,3 +23,7 @@ header {
     font-weight: 70;
     cursor: pointer;
 }
+.search input, button{
+    font-family: "PT Sans Narrow", sans-serif;
+    font-weight: 70;
+}
