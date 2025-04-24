@@ -16,5 +16,10 @@ header {
     display: flex;
     justify-content: space-around;
     align-items: center;
-    /* font-family: "PT Sans Narrow", sans-serif; */
+}
+
+.nav-links {
+    font-family: "PT Sans Narrow", sans-serif;
+    font-weight: 70;
+    cursor: pointer;
 }
