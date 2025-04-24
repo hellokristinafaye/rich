@@ -11,3 +11,10 @@ header {
     font-family: Fascinate;
     font-style: italic;
 }
+.nav-bar {
+    background: rgb(53, 235, 68);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    /* font-family: "PT Sans Narrow", sans-serif; */
+}
